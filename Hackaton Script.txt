@@ -1,0 +1,35 @@
+Title: Israel Tour Guide
+---
+Introduction:
+Welcome to Israel Tour Guide! It's your buddy for exploring cool places in Israel. We'll help you find nearby tourist spots and tell you how to get there. Let's go on an awesome adventure!
+---
+Step 1: Find Your Location:
+- Our app needs to know where you are to show you cool places nearby.
+- Once you give permission, we'll find your location and show you fun places to visit.
+---
+Step 2: Check Out Tourist Spots:
+- Look at a list of fun places nearby with short descriptions about why they're cool.
+- Tap on a place to learn more, like when it's open, how much it costs, and what people think about it.
+---
+Step 3: Find the Right Place for You:
+- Use filters to find places you'll like, such as old buildings, religious spots, or nature spots.
+- We'll rate each place based on what you like, so you can find the perfect spot for you.
+---
+Step 4: How to Get There:
+- See how to get to each place, whether by walking, bus, or taxi.
+- We'll tell you how far away each place is and how long it takes to get there.
+---
+Step 5: Get Personal Suggestions:
+- Get suggestions just for you based on where you are and what you like.
+- Find hidden gems and cool places that fit your style.
+---
+Step 6: Make Your Plan:
+- Make your own plan by adding your favorite places to visit.
+- Organize your day by picking places close together with similar opening times and ways to get there.
+---
+Step 7: Find Your Way:
+- Use our maps and directions to help you find your way to each place.
+- We'll tell you about traffic, bus times, and other ways to get around.
+---
+Conclusion:
+With Israel Tour Guide, exploring Israel is easy and fun! Whether you love history, nature, or food, our app helps you have the best time ever. Download now and let's start exploring!
